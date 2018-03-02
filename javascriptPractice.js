@@ -7,7 +7,6 @@ function reverseString(str) {
 
 let reverseString = '';
 for(let char of str){
-
     reverseString = char + reverseString;
 }
 
